@@ -15,7 +15,7 @@ Brogram is a modern React app designed to help users follow a 30-day workout pro
 ---
 # 🚀 Live Demo
 
-Coming soon
+https://thebrogramplan.netlify.app/
 
 ---
 
